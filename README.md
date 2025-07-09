@@ -52,7 +52,7 @@ NETSUITE_TOKEN_SECRET=your_token_secret
 ## ▶️ Run the Server
 
 ```bash
-npm start
+npm start Or node server.js
 ```
 
 > Default server runs at `http://localhost:5000`
